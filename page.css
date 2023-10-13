@@ -50,6 +50,7 @@ body {
     color: white;
     border-radius: 4px;
     padding: 4px;
+    margin-top: 15px;
 }
 
 .maintext {
@@ -61,7 +62,9 @@ body {
     width: 350px;
     color: #e5e7eb;
     font-size: 18px;
-}
+    margin-top: 10px;
+    margin-bottom: 10px;
+    }
 
 .container {
     display: flex;
